@@ -7,7 +7,7 @@ const porta = 3333
 function mostraMulher(request, response) {
 response.json({
     nome: 'Alexsandra Tavares',
-    imagem: 'https://im.ge/i/1707252172189.WGuHYG',
+    imagem: 'https://i.im.ge/2024/04/14/ZQBZnr.alexsa.jpeg',
     minibio: 'Neuropsicopedagoga e Engenheira de Dados' ,
 })
 
